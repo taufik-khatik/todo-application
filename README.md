@@ -2,6 +2,7 @@
 
 This is a simple Todo application built with Laravel. It allows users to manage their tasks, mark them as completed, and assign them to other users. It also includes email functionality to notify users when tasks are assigned or unassigned.
 
+
 ## Features
 
 - User authentication and authorization
@@ -10,6 +11,9 @@ This is a simple Todo application built with Laravel. It allows users to manage 
 - Toastr notifications for success, warning, and error messages
 - Alpine.js for interactive components like confirmation modals
 - Email notifications for task assignments and unassignments
+
+![Todo Page](https://github.com/taufik-khatik/todo-application/tree/main/public/images/my-todos-list-screenshot.png)
+*Screenshot: Todo Page*
 
 ## Installation
 
@@ -81,8 +85,6 @@ This is a simple Todo application built with Laravel. It allows users to manage 
 
 ## Test Data
 
-
-
 Admin User:
 - Username: taufikkhatik.exr@gmail.com
 - Password: [***********]
@@ -90,6 +92,7 @@ Admin User:
 Regular User:
 - Username: taufikkhatk23@gmail.com
 - Password: [***********]
+
 
 ## Credits
 
