@@ -12,7 +12,7 @@ This is a simple Todo application built with Laravel. It allows users to manage 
 - Alpine.js for interactive components like confirmation modals
 - Email notifications for task assignments and unassignments
 
-![Todo Page](https://github.com/taufik-khatik/todo-application/tree/main/public/images/my-todos-list-screenshot.png)
+![Todo Page](https://github.com/taufik-khatik/todo-application/blob/main/public/my-todos-list-screenshot.png)
 *Screenshot: Todo Page*
 
 ## Installation
