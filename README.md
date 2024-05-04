@@ -19,7 +19,7 @@ This is a simple Todo application built with Laravel. It allows users to manage 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-application.git
+   git clone git@github.com:taufik-khatik/todo-application.git
    ```
 
 2. Navigate to the project directory:
